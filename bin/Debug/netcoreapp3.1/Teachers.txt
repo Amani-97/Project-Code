@@ -1,0 +1,7 @@
+the teacher ID: 12345
+the teacher name: Amani Alghamdi
+the teacher class: A1
+the teacher section: B1
+the teacher name after updating: Lama Fayez
+the teacher class after updating: C1
+the teacher section after updating: X1
